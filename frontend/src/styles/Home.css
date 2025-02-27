@@ -1,0 +1,12 @@
+.home-container {
+  margin-top: 80px;
+}
+
+.home-container h1 {
+  color: #343a40;
+}
+
+.home-container p {
+  font-size: 1.25rem;
+  color: #6c757d;
+}
